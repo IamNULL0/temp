@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "ui",
+			"prefix": "ui/"
+        },
+        {
+            "type": "directory",
+            "source": "books",
+			"prefix": "books/"
+        }
+	]
+}

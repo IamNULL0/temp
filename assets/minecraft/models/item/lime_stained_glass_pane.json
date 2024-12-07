@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "block/lime_stained_glass"
+  },
+	"overrides": [
+    {"predicate": {"custom_model_data":7340015}, "model": "teplus:ui/progress/merge_down"},
+    {"predicate": {"custom_model_data":7340016}, "model": "teplus:ui/progress/merge_left"},
+    {"predicate": {"custom_model_data":7340017}, "model": "teplus:ui/progress/merge_right"},
+    {"predicate": {"custom_model_data":7340018}, "model": "teplus:ui/progress/arrow_left"},
+    {"predicate": {"custom_model_data":7340019}, "model": "teplus:ui/progress/arrow_right"},
+    {"predicate": {"custom_model_data":7340020}, "model": "teplus:ui/progress/extract"}
+	]
+}

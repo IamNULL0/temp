@@ -1,0 +1,1471 @@
+{
+	"__Credit__":"Made by: Your Name",
+	"CUSTOM ENCHANTMENTS":"change",
+	"__Comment__":"Second LORE for books",
+
+	"Boots":"change",
+	"Leggings":"change",
+	"Chestplate":"change",
+	"Helmet":"change",
+	"Axe":"change",
+	"Pickaxe":"change",
+	"Shovel":"change",
+	"Hoe":"change",
+	"Sword":"change",
+	"Horse Armor":"change",
+	"Everything":"change",
+	"Tools":"change",
+	"Weapons":"change",
+	"Armor":"change",
+
+	"__Comment__":"General LORE enchantments for books and items",
+
+	"Accuracy Shot":"change",
+	"Agility":"change",
+	"Anti-Explosion":"change",
+	"Anti-Knockback":"change",
+	"Anti-Venom":"change",
+	"Arachnid":"change",
+	"Armored":"change",
+	"Attack Speed":"change",
+	"Auto-Feed":"change",
+	"Auto-Smelt":"change",
+	"Big Path":"change",
+	"One Year Birthday!":"change!",
+	"1 Year Birthday Potion":"change",
+	"Bloody Blade":"change",
+	"Bright Vision":"change",
+	"Chopping":"change",
+	"Dasher":"change",
+	"Excavator":"change",
+	"Explosive":"change",
+	"Fireball Wave":"change",
+	"Flaming Skin":"change",
+	"Grand Tilling":"change",
+	"Hardness+":"change",
+	"Harvesting+":"change",
+	"Haste":"change",
+	"Last Life":"change",
+	"Last Stand":"change",
+	"Lava Walker":"change",
+	"Leaping":"change",
+	"Life+":"change",
+	"Life Steal":"change",
+	"Magnet":"change",
+	"Marine Grace":"change",
+	"Mining+":"change",
+	"Multicolor":"change",
+	"Peaks":"change",
+	"Poison Aspect":"change",
+	"Recovery":"change",
+	"Replant":"change",
+	"Scyther":"change",
+	"Shock Fangs":"change",
+	"Sky Walk":"change",
+	"Sniper":"change",
+	"Soul Reaper":"change",
+	"Splatter":"change",
+	"Striker":"change",
+	"Swim+":"change",
+	"Timber":"change",
+	"Time Breaker":"change",
+	"Transmission":"change",
+	"Turtle Stiffness":"change",
+	"Vein Miner":"change",
+	"Waterjet":"change",
+	"Xp Boost":"change",
+
+	"Curse of Fragile":"change",
+	"Curse of Sensitive":"change",
+	"Curse of Slippery":"change",
+	
+
+	"__Comment__":"M u l t i c o l o r  LORE for books (each letter has a different color)",
+
+	"M":"M",
+	"u":"u",
+	"l":"l",
+	"t":"t",
+	"i":"i",
+	"c":"c",
+	"o":"o",
+	"l":"l",
+	"o":"o",
+	"r":"r",
+
+
+
+
+
+
+	"__Comment1__":"Config MENU information",
+
+	" | Settings MENU":" | change",
+	" Gameplay options:":" change:",
+	" Configure the way it works, like how to get and apply custom enchantments!":" change",
+	" Custom enchantments options:":" change:",
+	" Enable and Disable the enchantments you want.":" change",
+
+
+
+
+	"__Comment1__":"Gameplay config MENU information",
+
+	"                       GAMEPLAY OPTIONS MENU":"                       change",
+	"Soul Reaper affects entity:":"change:",
+	"Timber enchantment can break leaves":"change",
+
+
+
+
+	"__Comment1__":"Enchantments config MENU information",
+	"                       ENCHANTMENTS OPTIONS MENU":"                       change",
+	
+	"__Comment2__":"Blocks and Technical Anvil UI",
+
+	"Charged Bookshelf":"change",
+	"Place it down to increase the":"change",
+	"tier of an enchanting setup":"change",
+	"Technical Anvil":"change",
+	"Place it down to merge or":"change",
+	"extract custom enchantments":"change",
+
+
+	"Merging Mode":"change",
+	"Use it as a normal anvil to":"change",
+	"combine custom enchantments to your items!":"change",
+	"Clic this icon to change Technical Anvil mode":"change",
+	"Need levels":"change",
+	"Clic this item to combine":"change",
+	"You cannot combine those items!":"change",
+	"Error!":"change!",
+	"You cannot add that enchantment":"change",
+	"to that item!":"change",
+	"You don't have enough Experience Levels!":"change",
+	
+
+	"Extracting Mode":"change",
+	"Place on the left any item with custom":"change",
+	"enchantments and on the right normal books":"change",
+	"Clic this item":"change",
+	"to extract a custom enchantment":"change",
+	"This feature is currently disabled!":"change",
+
+
+
+
+
+
+	"__Comment3__":"Advancements",
+
+	"__Comment3.1__":"General advancements",
+
+	"Technical Enchant+":"change",
+	"Discover a new power of enchantments":"change",
+
+    "Detailed Information":"change",
+	"Drop a book and quill on top of a enchanting table":"change",
+
+    "A bunch of enchantments":"change",
+	"Obtain your first custom enchantment to see the other ones":"change",
+
+	"Get this free potion from the Guide Book":"change",
+
+    "Charging the power":"change",
+	"Get a charged bookshelf":"change",
+
+    "Full enchanting power":"change",
+	"Create a Tier 5 enchanting setup":"change",
+
+    "Easy combining":"change",
+	"Obtain a Technical Anvil":"change",
+
+    "Get back your enchantments":"change",
+	"Switch to extracting mode using the Technical Anvil UI":"change",
+
+    "Feeling overpowered":"change",
+	"Get every custom enchantment and curse":"change",
+
+    "All that power at once":"change",
+	"Why did you made this?":"change",
+
+    "Exceed the limit":"change",
+	"Get an exceeded vanilla enchanted book!":"change!",
+
+
+
+	"__Comment3.2__":"Advancements sections",
+
+	"Armor +":"change",
+	"Over 18 enchantments":"change",
+	"Technical Helmet":"change",
+	"Get every custom enchantment book for the helmet":"change",
+	"Technical Chestplate":"change",
+	"Get every custom enchantment book for the chestplate":"change",
+	"Technical Leggings":"change",
+	"Get every custom enchantment book for the leggings":"change",
+	"Technical Boots":"change",
+	"Get every custom enchantment book for the boots":"change",
+	"Technical Shield":"change",
+	"Get every custom enchantment book for the shield":"change",
+
+	"Weapons +":"change",
+	"Over 16 more enchantments":"change",
+	"Technical Bow":"change",
+	"Get every custom enchantment book for the bow":"change",
+	"Technical Crossbow":"change",
+	"Get every custom enchantment book for the crossbow":"change",
+	"Technical Sword":"change",
+	"Get every custom enchantment book for the sword":"change",
+	"Technical Trident":"change",
+	"Get every custom enchantment book for the trident":"change",
+
+	"Tools +":"change",
+	"Over 15 more enchantments":"change",
+	"Technical Axe":"change",
+	"Get every custom enchantment book for the axe":"change",
+	"Technical Hoe":"change",
+	"Get every custom enchantment book for the hoe":"change",
+	"Technical Pickaxe":"change",
+	"Get every custom enchantment book for the pickaxe":"change",
+	"Technical Shovel":"change",
+	"Get every custom enchantment book for the shovel":"change",
+
+	"Extra items":"change",
+	"3 more enchantments":"change",
+	"Armored Enchantment":"change",
+	"A bit of extra protection while you're flying":"change",
+	"Multicolor Enchantment":"change",
+	"Unlimited source of wool color":"change",
+	"Splatter Enchantment":"change",
+	"Water beam goes brrr":"change",
+	"Technical Horse Armor":"change",
+	"Get every custom and vanilla enchantment book for any horse armor":"change",
+	"Frost Walker for horse armor":"change",
+	"A bit different from vanilla":"change",
+
+	"Better luck next time":"change",
+	"5 more custom curses":"change",
+	"Same as golden items":"change",
+	"Has a lot of accumulated tension":"change",
+	"Do you have butter finguers now?":"change",
+
+
+	"__Comment3.3__":"Enchantments description in Advancements",
+
+	"I'm fast, too fast":"change",
+	"Very fast that it hurts":"change",
+	"Striders may not like this one":"change",
+	"Prevent unexpected falls":"change",
+	"Heat emitter":"change",
+	"Tasteless but effective":"change",
+	"Purify your body":"change",
+	"Basically double hearts":"change",
+	"Watch out harming your pets":"change",
+	"Your inventory may fill up faster":"change",
+	"Illuminate your view":"change",
+	"No more holes in the ground":"change",
+	"Olympic swimmer":"change",
+	"Feel like someone new":"change",
+	"Become the expert mountain climber":"change",
+	"Use it as a totem backup":"change",
+	"Without any scratch":"change",
+	"Become a real tank":"change",
+	"Reinforced protection":"change",
+	"Harmful deflection":"change",
+	"Thunder God":"change",
+	"Be careful what you touch":"change",
+	"Carpentry wrecker":"change",
+	"Don't waste fuel":"change",
+	"Xp orbs stonks":"change",
+	"Where did it go?":"change",
+	"Remember to reforest":"change",
+	"Become the death stalker":"change",
+	"Undergrowth remover":"change",
+	"Master farmer":"change",
+	"Summon vegetation":"change",
+	"Optimize space":"change",
+	"Happy ore mining":"change",
+	"Easy tunnel bore":"change",
+	"Create better roads":"change",
+	"Better terraformer":"change",
+	"No gravity physics?":"change",
+	"Try to use it with responsibility, ok?":"change",
+	"Easily trap your enemies":"change",
+	"Send them to hell":"change",
+	"Wait for the right moment":"change",
+	"Use a part of the evoker's magic":"change",
+	"Nothing is in my way":"change",
+	"Good old memories":"change",
+	"Feel my venom":"change",
+	"Give me my health back!":"change",
+	"With honor until the end":"change",
+	"The ocean charmer":"change",
+	"Prepare for the water drop":"change",
+
+
+
+
+
+
+	"__Comment4__":"Tellraw Messages feedback",
+
+	" Items in your inventory have been updated to v6.0":" change",
+	" You have received":" change",
+	" all max level":" change",
+	" custom and vanilla enchantments!":" change",
+	"You have merged all custom enchantments, curses and exceeded vanilla enchantments at thier Max Level in one single book!":" change",
+	" is ready, to protect you.":" change.",
+	" activated, wait 5 minutes to use it again!":" change!",
+
+	"__Comment5__":"Guide Book item, (literally the book item)",
+
+	" TE+ Guide Book ":" change ",
+
+	"__Comment5.1__":"Page 1",
+	"New Items":"change",
+	"Main Mechanics":"change",
+	
+
+	"__Comment5.2__":"Page 2",
+	"Admin Tools":"change",
+	"Credits":"change",
+
+
+	"__Comment5.3__":"Page 3",
+	"(Birthday Potion)":"(change)",
+	"Celebrate the best party,":"change",
+	"with cakes, candles, fireworks":"change",
+	"and balloons!":"change",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment6__":"LOAD - UNINSTALL message",
+	" Not installed":" change",
+	"[HERE]":"[change]",
+	" Installed":" change",
+	" has been":" change",
+	" uninstalled":" change",
+	" successfully.":" change.",
+	"Be sure to remove it from your datapack folder!":"change",
+
+
+
+
+
+
+
+	"__Comment7__":"GENERAL GUIDE BOOK INFORMATION",
+	"__Comment7.1__":"New items",
+	"Charged Bookshelf:":"change:",
+	" To obtain one you need to have at least ":" change ",
+	"8 lapis lazuli":"change",
+	" in your inventory and throw a normal bookshelf on the enchanting table.":" change",
+
+	"Technical Anvil:":"change:",
+	"8 lapis blocks":"change",
+	" in your inventory and throw an ":" change ",
+	"UNDAMAGED anvil":"change",
+	" on the enchanting table. You can remove it just by breaking the slab hitbox.":" change",
+
+
+
+
+	"__Comment7.2__":"Main Mechanics",
+	"[Enchanting Setup]:":"[change]:",
+	" The enchanting setup let you obtain and enchant your items with new custom enchnatments. You can know more about this ":" change ",
+	"(Here)":"(change)",
+
+
+	"[Combine Enchantments]:":"[change]:",
+	" You can use the Technical Anvil UI as the vanilla anvil to combine books with books, item with books or items with items. For this you must need to have at least":" change",
+	" 10 levels.":" change.",
+
+
+	"[How to disenchant?]:":"[change]:",
+	" You can throw your enchanted item ":" change ",
+	"on top of a grindstone":"change",
+	" and all the enchantments are going to be removed.":" change",
+	" Except curses!":" change!",
+	"Alternatively, you can use":"change",
+	" Extracting Mode ":" change ",
+	"from the technical anvil. ":"change ",
+	"[See more info]":"[change]",
+
+
+
+
+
+
+	"__Comment7.2.1__":"Enchanting Setup",
+	"Enchanting Setup":"change",
+	"You need to put the ":"change ",
+	"charged bookshelves":"change",
+	" around the enchanting table, as you do it for vanilla. A max enchanting setup should look something like this:":" change:",
+
+	"       Tier one:":"       change:",
+	" 6 charged bookshelves":" change",
+	"       Tier two:":"       change:",
+	" 12 charged bookshelves":" change",
+	"       Tier three:":"       change:",
+	" 18 charged bookshelves":" change",
+
+	"Each time you upgrade your enchanting setup Tier, a ":"change ",
+	"lapis lazuli item":"change",
+	" will show up in the enchanting table.":" change",
+
+
+
+
+
+
+	"__Comment7.2.2__":"Extracting Mode",
+	"You can extract any":"change",
+	" enchantment ":" change ",
+	"from your items using this Technical Anvil mode ":"change ",
+	"at no cost!":"change!",
+	" You just need your enchanted item and some ":" change ",
+	"normal books":"change",
+	"Note that the first enchantment in the Lore of the item":"change",
+	" may not be ":" change ",
+	"the one that you are currently extracting.":"change",
+	"Custom curses":"change",
+	" and ":" change ",
+	"Vanilla curses":"change",
+	" can't be extracted":" change",
+
+
+
+
+
+
+	"__Comment7.3__":"Enchanting rates",
+	"To get or apply a ":"change ",
+	"Custom enchantment:":"change:",
+	"You will need ":"change ",
+	"levels":"change",
+	"lapis":"change",
+	" (in your inventory).":" (change)",
+	"Throw a book/item on an ":"change ",
+	"enchanting table setup. ":"change ",
+	"That will consume the ":"change ",
+	"book/item,":"change ",
+	"levels,":"change,",
+	"and lapis.":"change",
+
+	"Level 10 to 19":"change",
+	"Low enchantment.":"change",
+	"Level 20 to 29":"change",
+	"Average enchantment.":"change",
+	"Level 30 to Infinity":"change",
+	"Strong enchantment.":"change",
+
+	"The rates :":"change :",
+	"Low enchantments":"change",
+	" will cost you":" change",
+	" 1 Level":" change",
+	"1 Lapis.":"change",
+	"Average enchantments":"change",
+	" 2 Levels":" change",
+	"2 Lapis.":" change",
+	"Strong enchantments":"change",
+	" 3 Levels":" change",
+	"3 Lapis.":" change",
+	"Notice that depending on your ":"change ",
+	"Enchanting Tiers":"change",
+	", you can obtain low, average or strong enchantments.":", change",
+
+
+
+
+
+
+	"__Comment7.4__":"Enchantments List",
+	"♦♦♦---||---||-- CUSTOM CURSES --||---||---♦♦♦":"♦♦♦---||---||-- CHANGE --||---||---♦♦♦",
+	"►[GET MORE INFORMATION]◄":"►[CHANGE]◄",
+
+	"♦♦♦---||---||-- WEAPON ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- CHANGE --||---||---♦♦♦",
+	"►[SWORD]   ":"►[CHANGE]   ",
+	"►[TRIDENT]   ":"►[CHANGE]   ",
+	"►[BOW]   ":"►[CHANGE]   ",
+	"►[CROSSBOW]   ":"►[CHANGE]   ",
+
+	"♦♦♦---||---||-- ARMOR ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- CHANGE --||---||---♦♦♦",
+	"►[HELMET]   ":"►[CHANGE]   ",
+	"►[CHESTPLATE]   ":"►[CHANGE]   ",
+	"►[LEGGINGS]   ":"►[CHANGE]   ",
+	"►[BOOTS]   ":"►[CHANGE]   ",
+	"►[SHIELD]":"►[CHANGE]",
+
+	"♦♦♦---||---||-- TOOLS ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- CHANGE --||---||---♦♦♦",
+	"►[PICKAXE]   ":"►[CHANGE]   ",
+	"►[AXE]   ":"►[CHANGE]   ",
+	"►[SHOVEL]   ":"►[CHANGE]   ",
+	"►[HOE]":"►[CHANGE]",
+
+	"♦♦♦---||---||-- EXTRA ENCHANTMENTS --||---||---♦♦♦":"♦♦♦---||---||-- CHANGE --||---||---♦♦♦",
+	"►[ELYTRA]   ":"►[CHANGE]   ",
+	"►[FISHING ROD]   ":"►[CHANGE]   ",
+	"►[HORSE ARMOR]   ":"►[CHANGE]   ",
+	"►[SHEARS]   ":"►[CHANGE]   ",
+
+
+
+
+
+
+
+	"__Comment7.5__":"Additional Feature",
+	"By placing ":"change ",
+	"two same (MAXED OUT) vanilla enchanted books ":"change ",
+	"in the technical anvil, you can obtain an enchantment level higher than in vanilla!":"change",
+
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment7.7__":"Admin Tools",
+	"If you have ACCESS TO COMMANDS, you can type in the chat: ":"change: ",
+	"[This command]":"[change]",
+	" To get a barrel full with ":" change ",
+	"all custom enchantments!":"change!",
+	" And items already enchanted at their max level.":" change",
+	" Format, to enchant a held item using commands.":" change.",
+	" Be aware that the Lore and Attributes will be overwritten.":" change.",
+	"Error! ":"change! ",
+	"You can't add this enchantment to this item":"change",
+	"This enchantment is already present in this item":"change",
+
+
+
+
+
+
+
+
+
+	"__Comment8__":"GUIDE BOOK enchantments list sub-menu",
+	"__Comment8.1__":"Custom Curses",
+	"===>> Custom Curses <<===":"===>> Change <<===",
+	"These curses can only be obtained from the enchanting table with more than 10 levels. As vanilla curses, these custom curses":"change",
+	" can't be disenchanted!":" change!",
+	"- Fragile":"- change",
+	"- Sensitive":"- change",
+	"- Slippery":"- change",
+
+
+
+	"__Comment8.2__":"Sword enchantments",
+	"===>> Sword Custom Enchantments <<===":"===>> Change <<===",
+	"- Anti Explosion":"- change",
+	"- Attack Speed":"- change",
+	"- Bloody Blade":"- change",
+	"- Last Stand":"- change",
+	"- Life Steal":"- change",
+	"- Poison Aspect":"- change",
+	"- Xp Boost":"- change",
+
+
+
+	"__Comment8.3__":"Trident enchantments",
+	"===>> Trident Custom Enchantments <<===":"===>> Change <<===",
+	"- Marine Grace":"- change",
+	"- Waterjet":"- change",
+
+
+
+	"__Comment8.4__":"Bow enchantments",
+	"===>> Bow Custom Enchantments <<===":"===>> Change <<===",
+	"- Accuracy Shot":"- change",
+	"- Arachnid":"- change",
+	"- Explosive":"- change",
+
+
+
+
+	"__Comment8.5__":"Crossbow enchantments",
+	"===>> Crossbow Custom Enchantments <<===":"===>> Change <<===",
+	"- Fireball Wave":"- change",
+	"- Shock Fangs":"- change",
+	"- Sniper":"- change",
+
+
+
+
+	"__Comment8.6__":"Helmet enchantments",
+	"===>> Helmet Custom Enchantments <<===":"===>> Change <<===",
+	"- Bright Vision":"- change",
+	"- Magnet":"- change",
+	"- Time Breaker":"- change",
+
+
+
+	"__Comment8.7__":"Chestplate enchantments",
+	"===>> Chestplate Custom Enchantments <<===":"===>> Change <<===",
+	"- Anti Venom":"- change",
+	"- Auto Feed":"- change",
+	"- Flaming Skin":"- change",
+	"- Life+":"- change",
+
+
+
+	"__Comment8.2__":"Leggings enchantments",
+	"===>> Leggings Custom Enchantments <<===":"===>> Change <<===",
+	"- Last Life":"- change",
+	"- Leaping":"- change",
+	"- Recovery":"- change",
+	"- Swim+":"- change",
+
+
+
+	"__Comment8.3__":"Boots enchantments",
+	"===>> Boots Custom Enchantments <<===":"===>> Change <<===",
+	"- Agility":"- change",
+	"- Dasher":"- change",
+	"- Lava Walker":"- change",
+	"- Sky Walk":"- change",
+
+
+
+	"__Comment8.4__":"Shield enchantments",
+	"===>> Shield Custom Enchantments <<===":"===>> Change <<===",
+	"- Anti Knockback":"- change",
+	"- Hardness+":"- change",
+	"- Peaks":"- change",
+	"- Turtle Stiffness":"- change",
+
+
+
+	"__Comment8.5__":"Pickaxe enchantments",
+	"===>> Pickaxe Custom Enchantments <<===":"===>> Change <<===",
+	"- Auto Smelt":"- change",
+	"- Haste":"- change",
+	"- Mining+":"- change",
+	"- Vein Miner":"- change",
+
+
+
+
+	"__Comment8.6__":"Axe enchantments",
+	"===>> Axe Custom Enchantments <<===":"===>> Change <<===",
+	"- Chopping":"- change",
+	"- Striker":"- change",
+	"- Timber":"- change",
+	"- Transmission":"- change",
+
+
+
+
+	"__Comment8.7__":"Shovel enchantments",
+	"===>> Shovel Custom Enchantments <<===":"===>> Change <<===",
+	"- Big Path":"- change",
+	"- Excavator":"- change",
+
+
+
+
+	"__Comment8.3__":"Hoe enchantments",
+	"===>> Hoe Custom Enchantments <<===":"===>> Change <<===",
+	"- Grand Tilling":"- change",
+	"- Harvesting+":"- change",
+	"- Replant":"- change",
+	"- Scyther":"- change",
+	"- Soul Reaper":"- change",
+
+
+
+
+	"__Comment8.4__":"Shears enchantments",
+	"===>> Shears Custom Enchantments <<===":"===>> Change <<===",
+	"- Multicolor":"- change",
+
+
+
+	"__Comment8.5__":"Elytra enchantments",
+	"===>> Elytra Custom Enchantments <<===":"===>> Change <<===",
+	"- Armored":"- change",
+
+
+
+	"__Comment8.6__":"Fishing Rod enchantments",
+	"===>> Fishing Rod Custom Enchantments <<===":"===>> Change <<===",
+	"- Splatter":"- change",
+
+
+
+	"__Comment8.7__":"Horse Armor enchantments",
+	"===>> Horse Armor Custom Enchantments <<===":"===>> Change <<===",
+	"Now you can apply ":"change ",
+	"\"Frost Walker enchantment\"":"\"change\"",
+	" to any horse armor. Just combine it using the Technical Anvil.":" change",
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment9__":"Enchantments descriptions",
+
+
+	"__Comment9.1__":"Curse of Fragile",
+	"Curse":"change",
+	"Fragile :":"change :",
+	"Every item is going to lose more durability each time you use the item. Unbreaking enchantment may counter this curse.":"change",
+
+
+	"__Comment9.2__":"Curse of Sensitive",
+	"Sensitive :":"change :",
+	"Each time you take damage, you have a small probability to explode. This curse is cumulative, be careful when wearing more than one armor piece.":"change",
+	"Also, if you use a shield with this curse, each time it loses durability you have a chance to explode.":"change.",
+
+
+	"__Comment9.3__":"Curse of Slippery",
+	"Slippery :":"change :",
+	"When using an item, you'll have a small chance to drop it in front of you. A sound is going to play when this happens.":"change",
+
+
+	"__Comment9.4__":"Accuracy Shot",
+	"Enchantment":"change",
+	"Accuracy Shot :":"change :",
+	"The arrows you shoot are no longer affected by gravity , it stays straight.":"change",
+
+
+	"__Comment9.5__":"Agility",
+	"Agility :":"change :",
+	"It goes from ":"change ",
+	"Level":"change",
+	"The Higher the ":"change ",
+	", the faster you run.":", change.",
+
+
+	"__Comment9.6__":"Anti-Explosion",
+	"Anti-Explosion :":"change :",
+	"All Creepers and TNT nearby you, can't explode while using this enchantment.":"change.",
+
+
+	"__Comment9.7__":"Anti-Explosion",
+	"Anti-Knockback :":"change :",
+	"Level I to II.":"change.",
+	"This ":"change ",
+	"enchantment ":"change ",
+	"Transforms you into a real tank,":"change,",
+	" ignoring most of the effects of knockback, if you wear ":" change ",
+	"full nehterite armor set with this shield!":"change!",
+
+
+	"__Comment9.8__":"Anti-Venom",
+	"Anti-Venom :":"change :",
+	"Level I ":"change ",
+	"Remove the Poison and wither effects.":"change.",
+	"Level II ":"change ",
+	"Remove the slowness and weakness effects.":"change.",
+
+
+	"__Comment9.9__":"Arachnid",
+	"Arachnid :":"change :",
+	"When a the arrow lands, it generates a group od cobwebs.":"change.",
+	"If the arrow hits a mob, it will pull it down the ground and generate the group of cobwebs arround it.":"change ",
+
+
+	"__Comment9.9__":"Armored",
+	"Armored :":"change :",
+	": Adds 2 armor points to your Elytra.":": change.",
+	": Adds 4 armor points to your Elytra.":": change. ",
+	"You can ONLY get \"Armored I\" through the enchanting table if you have ":":change \"change\" change ",
+	" more than 30 levels.":": change. ",
+	" You may have a better chance by exploring":": change",
+	" End city's loot.":": change.",
+
+
+	"__Comment9.10__":"Attack Speed",
+	"Attack Speed :":"change :",
+	"It increases your attack speed, per level.":"change.",
+
+
+	"__Comment9.11__":"Auto-Feed",
+	"Auto-Feed :":"change :",
+	" fills your hunger bar every 3 minutes.":" change.",
+
+
+	"__Comment9.12__":"Auto-Smelt",
+	"Auto-Smelt :":"change :",
+	"smelts the blocks you're mining.":"change.",
+	"Compatible with \"Mining+ and Vein Miner\" ONLY for ores!":"cahnge \"change\" change!",
+
+
+	"__Comment9.13__":"Big Path",
+	"Big Path :":"change :",
+	"Generates a 3x3 path when you use a shovel.":"change.",
+
+
+	"__Comment9.14__":"Dasher",
+	"Dasher :":"change :",
+	" creates a harmful trail behind you when you run.":" change",
+	"Has a duration of 5 seconds.":"change.",
+	"Has a duration of 10 seconds.":"change.",
+	"To trigger it, you need to run for 5 seconds straight.":"change.",
+	"The trail has a limited duration and can be vanished if you stop running.":"change.",
+
+
+	"__Comment9.15__":"Bloody Blade",
+	"Bloody Blade :":"change :",
+	"gives you a thirst for blood!":"change!",
+	"The more you kill entities consecutively in a short period of time, the stronger and faster you are.":"change.",
+	"The effects disappear quickly.":"change.",
+	"Killing mobs increases the duration of the effects.":"change.",
+
+
+	"__Comment9.16__":"Bright Vision",
+	"Bright Vision :":"change :",
+	" gives you unlimited night vision.":" change.",
+
+
+	"__Comment9.17__":"Chopping",
+	"Chopping :":"change :",
+	" Allows to break wood related blocks in a 3x3 area.":" change.",
+
+
+	"__Comment9.18__":"Excavator",
+	"Excavator :":"change :",
+	" Allows to mine in a 3x3 area.":" change.",
+	"Only for shovel related blocks.":"change.",
+
+
+	"__Comment9.19__":"Explosive",
+	"Explosive :":"change :",
+	" Makes an explosion around the arrows you shoot.":" change.",
+
+
+	"__Comment9.20__":"Fireball Wave",
+	"Fireball Wave :":"change :",
+	" make your arrows when they hit a mob or the ground, it'll create a ring of fireballs.":" change.",
+
+
+	"__Comment9.21__":"Flaming Skin",
+	"Flaming Skin :":"change :",
+	" generates a fire aura if you accumulate too much damage by getting hurt constantly.":" change.",
+	"Once this happens you will get fire ressitance and damage any entity within 15 blocks around you.":"change.",
+	"Also, the armor gear and held items of the affected entity has a chance to lose a bit of durability.":"change, change.",
+
+
+	"__Comment9.22__":"Grand Tilling",
+	"Grand Tilling :":"change :",
+	"Generates a 3x3 farmland area when you use a hoe.":"change.",
+
+
+	"__Comment9.23__":"Hardness+",
+	"Hardness+ :":"change :",
+	"give you extra armor toughness.":"change.",
+
+
+	"__Comment9.24__":"Harvesting+",
+	"Harvesting+ :":"change :",
+	"While holding this hoe, every 3 minutes you'll get random vegetation items.":"change.",
+	"This depends on the dimension you're in.":"change.",
+
+
+	"__Comment9.25__":"Haste",
+	"Haste :":"change :",
+	", the faster you mine.":", change.",
+
+
+	"__Comment9.26__":"Last Life",
+	"Last Life :":"change :",
+	"When your HP is low, an Automatic Healing is done.":"change.",
+	"This doesn't mean it protect you against death!":"change!",
+	"CoolDown : 5 minutes.":"change",
+
+
+	"__Comment9.27__":"Last Stand",
+	"Last Stand :":"change :",
+	"Makes you stronger the lower hp you are.":"change.",
+
+
+	"__Comment9.28__":"Lava Walker",
+	"Lava Walker :":"change :",
+	"Allows you to walk on lava.":"change.",
+
+
+	"__Comment9.29__":"Leaping",
+	"Leaping :":"change :",
+	", the higher you jump.":", change.",
+
+
+	"__Comment9.30__":"Life+",
+	"Life+ :":"change :",
+	"Level I to V.":"change.",
+	"Gives you extra hearts.":"change.",
+	"2 extra ♥♥ by Level of enchantment.":"change ♥♥ change.",
+
+
+	"__Comment9.31__":"Life Steal",
+	"Life Steal :":"change :",
+	"Drains the health of your enemy.":"change.",
+
+
+	"__Comment9.32__":"Magnet",
+	"Magnet :":"change :",
+	"Attracts all items arround you within 7 blocks.":"change.",
+
+
+	"__Comment9.33__":"Marine Grace",
+	"Marine Grace :":"change :",
+	"will spin your enemies, keeping them away with the help of a poweful current.":"change.",
+	": Has a 25% chance to trigger.":": change.",
+	": Has a 50% chance to trigger.":": change.",
+	"You must attack an entity while being ":"change ",
+	"inside water or during raining or thundering.":"change.",
+
+
+	"__Comment9.34__":"Mining+",
+	"Mining+ :":"change :",
+	" Allows you to mine in a 3x3 area.":" change.",
+	"Only for pickaxe related blocks.":"change.",
+
+
+	"__Comment9.35__":"Multicolor",
+	"Multicolor :":"change :",
+	" makes that each time you shear a sheep, you can get a random color of wool.":" change.",
+	"This enchantment doesn't work with dispensers!":"change!",
+	"You can ONLY get this enchantment if you have 30+ lvls, lapis lazuli and by throwing a book on the enchanting table.":"change.",
+
+
+	"__Comment9.36__":"Peaks",
+	"Peaks :":"change :",
+	" makes that whenever you block a mob with this shield, the mob will take damage.":" change.",
+
+
+	"__Comment9.37__":"Poison Aspect",
+	"Poison Aspect :":"change :",
+	": Inflicts a Poison I effect on the attacked monster.":": change.",
+	": Inflicts a Poison II effect on the attacked monster.":": change.",
+	"Level III ":"change ",
+	": Inflicts a Poison III effect on the attacked monster.":": change.",
+
+
+	"__Comment9.38__":"Recovery",
+	"Recovery :":"change :",
+	"make you heal faster if you take too much damage.":"change.",
+	": Gives you regeneration II for 5 seconds.":": change.",
+	": Gives you regeneration III for 3 seconds.":": change.",
+
+
+	"__Comment9.39__":"Replant",
+	"Replant :":"change :",
+	"Allows you to plant grown crops automatically (includes wheat, potatoes, carrots, beetroot and nether wart).":"change (change).",
+	"You need to break the crops while holding this hoe!":"change!",
+
+
+	"__Comment9.40__":"Scyther",
+	"Scyther :":"change :",
+	": Breaks hoe related blocks within a 3x3 surface.":": change.",
+	": Breaks hoe related blocks within a 5x5 surface.":": change.",
+
+
+	"__Comment9.41__":"Shock Fangs",
+	"Shock Fangs :":"change :",
+	" make your arrows when they hit a mob or the ground, it'll generate evoker fangs with the \"blindness\" effect.":" change \"change\" change.",
+
+
+	"__Comment9.42__":"Sky Walk",
+	"Sky Walk :":"change :",
+	"Allows you to walk into the sky, sneak to go down!":"change!",
+	"-For this to happen you need to have at least":"-change",
+	" 4 blocks":" change",
+	" of air below you.":"change.",
+	"-If you also have \"leaping\" enchantment, then you need to have at least":"-change \"change\" change",
+	" 8 blocks":" change",
+	"This enchantment doesn't work if you wear an Elytra!":"change!",
+
+
+	"__Comment9.43__":"Sniper",
+	"Sniper :":"change :",
+	"When you shoot an arrow, the furthest it goes, the more damage it will do.":"change.",
+
+
+	"__Comment9.44__":"Soul Reaper",
+	"Soul Reaper :":"change :",
+	": Damage 3 mobs in a 5 block radious.":": change.",
+	": Damage 5 mobs in a 7 block radious.":": change.",
+	": Damage 7 mobs in a 9 block radious.":": change.",
+	"To trigger this enchantment, you need to hold this hoe on your":"change",
+	" offhand.":" change.",
+	"The hoe will lose durability over time, so be careful.":"change.",
+
+
+	"__Comment9.45__":"Splatter",
+	"Splatter :":"change :",
+	"When equiped of your ":"change ",
+	" offhand":" change",
+	", each time you right clic, it'll shoot a powerfull water beam that damages entities ignoring their armor.":", change.",
+	" For each enchantment level, the distance of the beam increases ":" change ",
+	"10 blocks":"change",
+	"To obtain this enchantment you need more than 20 levels on the enchanting table, or by fishing.":"change.",
+	"Note that each time you use this fishing rod, it will lose it's durability regardless of unbreaking enchantment!":"change!",
+
+
+	"__Comment9.46__":"Striker",
+	"Striker :":"change :",
+	"Each time you do a":"change",
+	" critical hit ":" change ",
+	"with this axe, you will have a ":"change ",
+	"25% chance":"change",
+	" to summon a lightning bolt your target.":" change.",
+	": Summons only 1 lightning bolt.":": change.",
+	": Summons 1 row of lightning bolts behind your target.":": change.",
+	": Summons 3 rows of lightning bolts behind your target.":": change.",
+
+
+	"__Comment9.47__":"Swim+",
+	"Swim+ :":"change :",
+	"allows you to swim faster. It gives the \"dolphin's grace\" effect.":"change \"change\" change.",
+
+
+	"__Comment9.48__":"Timber",
+	"Timber :":"change :",
+	"allows you to break the entire tree by only breaking one log or stem block. (This includes it's leaves).":"change. (change).",
+
+
+	"__Comment9.49__":"Time Breaker",
+	"Time Breaker :":"change :",
+	"To trigger it, you need to ":"change ",
+	"crouch for 4 seconds":"change",
+	" without leaving the floor (like: jumping or staying at the edge of a block).":" change (change).",
+	": Apply a slowness V and weakness I effects to entities within 8 block radius.":": change.",
+	": Apply a slowness V, weakness II and mining fatigue I effects to entities within 12 block radius.":": change.",
+	"It has a 3 second cooldown each time you trigger it!":"change!",
+
+
+	"__Comment9.50__":"Transmission",
+	"Transmission :":"change :",
+	"Each time you hit a mob, it will have a chance to randomly ":"change ",
+	"teleport aroud you.":"change.",
+	" For each enchantment level, the probability increases by ":" change ",
+	"5%":"change%",
+
+
+	"__Comment9.51__":"Turtle Stiffness",
+	"Turtle Stiffness :":"change :",
+	" will defelct arrows and tridents and prevent other projectiles hitting you.":" change.",
+	"Turtle shells will protect you against any enemy nerby enemy for":"change",
+	" 10 seconds.":" change.",
+	"To trigger it: ":"change: ",
+	"Crouch while holding this shield in your offhand or mainhand and ":"change ",
+	"successfully block an attack.":"change.",
+
+
+	"__Comment9.52__":"Vein Miner",
+	"Vein Miner :":"change :",
+	" break all veins of minerals [This includes overworld and nether]":" change [change]",
+	"Is compatible with \"Auto Smelt\", \"Fortune\", \"Silk Touch\"":" change \"change\", \"change\", \"change\"",
+
+
+	"__Comment9.53__":"Waterjet",
+	"Waterjet :":"change :",
+	"Makes that when you throw a trident and if it hits a mob or a player, it will be sent up through the air (doesn't work inside water).":"change (change).",
+
+
+	"__Comment9.54__":"Xp Boost",
+	"Xp Boost :":"change :",
+	"give you additional experience when you kill a mob.":"change.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	"__Comment10__":"Addon Information",
+	"TE+ Addons:":"change:",
+	" Not detected":" change",
+	" Were detected":" change",
+
+
+
+
+
+
+
+
+
+	"__Comment11__":"Information for v7.0",
+	"Enchanting Rates":"change",
+	"Enchantments List":"change",
+	"Mobs use":"change",
+	"Mob spawning":"change",
+	"Mob drops":"change",
+	"Chest loot":"change",
+	"More ench lvl":"change",
+	"You can install addons in your world to have more TE+ custom enchantments!":"change!",
+	"[Template Download]":"[change]",
+	"[Collection Download]":"[change]",
+	"You can install complements to make TE+ enchantments be compatible with certain mod items!":"change!",
+	"[See Available]":"[change]",
+
+
+	" To uninstall the datpack, complements and addons related with Technical Enchant+.":" change.",
+	" To change the default configuration as you want.":" change.",
+	" To force the nearest entity to convert into an Enchanted Mob.":" change.",
+
+
+	"Vanilla enchanting:":"change:",
+	"Enchant items with vanilla enchantments when using an enchanting setup.":"change.",
+
+	"Book enchanting:":"change:",
+	"Obtain custom enchanted books when using an enchanting setup.":"change.",
+
+	"Item enchanting:":"change:",
+	"Apply custom enchantments to items when using an enchanting setup.":"change.",
+
+	"Enchantments combination:":"change:",
+	"Apply custom enchantmets to items using books.":"change.",
+
+	"Merge books:":"change:",
+	"Stack enchantments when combining books with books in the Technical Anvil.":"change.",
+
+	"Merge items:":"change:",
+	"Stack enchantments when combining an item with with the same item using the Technical Anvil.":"change.",
+
+	"Extracting Mode:":"change:",
+	"Separate custom enchantments from an enchanted item using the Technical Anvil.":"change.",
+
+	"Disenchant system:":"change:",
+	"Revome all custom and vanilla enchantments at once using the grindstone.":"change.",
+
+	"Low performance mode:":"change:",
+	"This will disable the enchanting table animation and many particles.":"change.",
+
+	"1 Year Birthday potion will work":"change",
+
+	"Xp level cost:":"change:",
+	"When using the Technical Anvil.":"change.",
+
+	"All entities":"change",
+	"Not players Only":"change",
+	"Not villagers and pets Only":"change",
+	"Both: M2 and M3":"change",
+
+
+	"Is now enabled!":"change!",
+	"In case you don't have the Attributes from this enchantment in your items,":"change,",
+	"add this enchantment again using a Technical Anivl.":"change.",
+	"[Return to the Menu?]":"[change]",
+
+
+
+
+
+
+
+	"Most Hostile Mobs ":"change ",
+	"can use TE+ custom enchanted items. With this, you get an extra challenge when fighting against mobs with the following changes:":"change change:",
+
+	"Armor: ":"change: ",
+	"Most of them can be used, ":"change, ",
+	"including curse of sensitive":"change",
+
+	"Tools: ":"change: ",
+	"Only some axe and hoe enchantments will work for mobs, ":"change, ",
+	"this also includes splatter":"change",
+
+	"Weapons: ":"change: ",
+	"Most enchantments will work for mobs, but it varies depening if the mob is capable of using":"change",
+	" melee/ranged weapons":" change",
+	"This feature may compromise (a bit) the performance of your world, but you can disable it whenever you want.":"change.",
+
+
+
+
+	"Every few often, ":"change, ",
+	"mobs will naturally spawn with TE+ enchanted gear!":"change",
+	"The gear varies in material, number of enchantments, and pieces:":"change:",
+	" [Armor, mainhand and offhand item]":" [change]",
+	" This means, that the mob can spawn with almost any enchantable item":" change",
+	" (that isn't netherite) ":" (change) ",
+	"depending on it's type (melee or ranged).":"change (change).",
+	"You may encounter a mob fully enchanted with more than a custom enchantment or curse.":"change.",
+	"You can modify the drop chances of the mob using the Config Menu.":"change.",
+	" By default, it is set to Minecraft's vanilla drop chance (very low).":"change (change).",
+
+
+
+
+	"Every 3 minutes":"change",
+	" some random mobs will be ":" change ",
+	"blessed":"change",
+	" with an enchanted book drop!": "change!",
+	"This mob will display a unique PARTICLE and will glow (if enabled) with different colors:":"change (change) change:",
+
+	"Green:":"change:",
+	" Low custom enchanted book":" change",
+	"Aqua:":"change:",
+	" Average custom enchanted book":" change",
+	"Red:":"change:",
+	" Strong custom enchanted book":" change",
+	"Pink:":"change:",
+	" Custom Cursed enchanted book":" change",
+
+	"You MUST to kill this mob with at least":"change",
+	" looting III. ":" change. ",
+	"Though, keep in mind that the enchanted book drop":"change",
+	" isn't 100% guaranteed.":" change.",
+
+	"Be careful!":"change!",
+	" These mobs will have ":" change ",
+	"some buffs":"change",
+	" that make them stronger and resistant.":" change.",
+
+
+
+
+
+	"You can ":"change ",
+	"find custom enchanted books":"change",
+	" by exploring the world while ":" change ",
+	"searching for chest loot.":"change.",
+	"Some structures will have ":"change ",
+	"themed enchantments.":"change.",
+	"Every structure has a ":"change ",
+	" to generate a custom enchanted book. And then it has a small chance of being a ":" change ",
+	"custom curse.":"change.",
+	"You can disable the whole extension or just disable a certain structure from generating a loot-table with custom enchantments.":"change.",
+
+
+
+
+
+	" Then, you can apply that book to the item using the Technical Anvil. By default the new level is set for:":" change, change. change change:",
+	" Up to level ":" change ",
+
+
+
+
+
+
+
+	"No entity has been found nearby":"change",
+	"This entity can't convert into an enchanted mob":"change",
+	"Mob Drops Extension is currently disabled":"change",
+
+
+
+
+
+	"                        EXTENSIONS MANAGER":"                        change",
+	" Extensions Manager:":" change:",
+	" Change the behaviour of extra features adjusting to your needs.":" change.",
+
+
+	"Select a category:":"change:",
+	"(Enabled)":"(change)",
+	"(Disabled)":"(change)",
+	"Allow hostile mobs to use custom enchantments. Note that if the enchantment is disabled, the mob won't trigger it, even if this feature is enabled!":"change. change, change, change!",
+
+	"- Open the Menu for:   ":"- change:   ",
+	"Mob Spawning":"change",
+	"Enchanted Mob Drops":"change",
+	"Structure Chest Loot":"change",
+	"Exceed vanilla enchant level":"change",
+
+
+
+
+
+
+
+	"Mobs can spawn wearing armor and other items with custom enchantments. They can't spawn with netherite gear.":"change. change.",
+	"- Helmet drop chance:":"- change:",
+	"- Chestplate drop chance:":"- change:",
+	"- Leggings drop chance:":"- change:",
+	"- Boots drop chance:":"- change:",
+	"- Mainhand drop chance:":"- change:",
+	"- Offhand drop chance:":"- change:",
+	"[← Return]":"[← change]",
+	"Edit":"change",
+	"Vanilla (very low)":"change (change)",
+
+
+	"Some random mobs (excluding bosses, pets and villagers) will spawn with the chance of dropping custom enchanted books.":"change (change) change.",
+	"Will drop a custom enchanted book when killing them with Looting III or beyond":"change",
+	"Glow based on their rarity":"change",
+	"Can spawn with attributes and potion effects":"change",
+	"Enchanted book drop chance when killed":"change",
+	"Enchanted Mob spawning rates":"change",
+
+
+	"Generate custom enchanted books in any Minecraft Vanilla structure. This feature, don't overwrite the vanilla loot-table!":"change. change, change!",
+	"For a specific structure:":"change:",
+	"Abandoned Mineshaft":"change",
+	"Ancient City":"change",
+	"Bastion Remnant":"change",
+	"Buried Treasure":"change",
+	"Desert Pyramid":"change",
+	"End City":"change",
+	"Igloo":"change",
+	"Jungle Temple":"change",
+	"Fortress":"change",
+	"Pillager Outpost":"change",
+	"Ruined Portal":"change",
+	"Shipwreck":"change",
+	"Dungeon":"change",
+	"Stronghold":"change",
+	"Stronghold Library":"change",
+	"Underwater Ruins":"change",
+	"Villages":"change",
+	"Woodland Mansion":"change",
+
+
+	"Use the Technical Anvil to surpass the vanilla enchantment level for:":"change:",
+	"Max level:":"change:",
+
+
+	"[Next →]":"[change →]",
+	"[← Previous]":"[← change]",
+
+
+
+
+
+
+	"__Comment12__":"Information for v7.1.0",
+	" Debug Mode:":" Change:",
+	" Get command feedback from many features in-game. Try also using /trigger Teplus.Report":" change. change /trigger Teplus.Report",
+
+	"Curse of Fear":"change",
+	"Curse of Exhaustion":"change",
+
+	"- Fear":"- change",
+	"- Exhaustion":"- change",
+
+	"So many around me":"change",
+	"I need a break":"change",
+
+	"Exhaustion :":"change :",
+	"Fear :":"change :",
+
+	"When using any tool there is a chance to make you feel really exhausted. During that state you won't be able to break any block, move correctly or even jump! Don't worry the effects disappear after 5 seconds.":"change, change. change, change! change.",
+	"While holding this weapon, you will get weaker (less attack damage, attack speed and movement speed) depending on how many hostile mobs are around you within a 25 block radious. Stronger mobs will scare you more.":"change, change (change) change. change.",
+
+
+
+	"__Comment13__":"Information for v7.2",
+	"The xp level value requirement in the settings is invalid":"change",
+	"You don't have at least ":"change ",
+	" Experience Levels!":" change",
+	"TE+ Complements:":"TE+ change",
+	"Incompatible with":"change ",
+
+
+
+
+
+
+	"__Comment14__":"Information for v7.3",
+	"Reset All Global Settings":"cahnge",
+	
+	"Upgrading the power":"change",
+	"Create a Tier 3 enchanting setup":"change",
+	"A better workstation":"change",
+	"Kill to enchant":"change",
+	"Kill an enchanted mob":"change",
+	"Discover exclusives":"change",
+	"Find a custom enchantment in a structure chest loot":"change",
+	"Enchantment offers":"change",
+	"Trade with an Advanced Enchanter":"change",
+
+	"Villagers":"change",
+	"Advanced Enchanter":"change",
+	"Advanced Enchanters":"change",
+	"Blessed Orb":"change",
+	"Blessed Orb:":"change:",
+	"Punch a mob with this orb to":"change",
+	"convert it into an enchanted one":"change",
+	"Isolated Core":"change",
+	"Isolated Core:":"change:",
+	"A rare item used to remove":"change",
+	"vanilla and custom curses":"change",
+	"Polished Lapis":"change",
+	"Currency to trade with":"change",
+	"an Advanced Enchanter":"change",
+	"Page of Power":"change",
+	"A page full of unique":"change",
+	"enchantment knowledge":"change",
+
+	"Allow librarians to convert into an Advanced Enchanter.":"change",
+	"Can sell special items at level 5":"change",
+	"Make special items renewable (restock)":"change (change)",
+	"Can offer discounts like vanilla":"change",
+	"Are allowed to sell enchantments at a higher level":"change",
+
+	" Use it instead of books in the ":" change",
+	"Technical Anvil extracting mode":"change",
+	" to remove custom and vanilla curses! Watch out, there is a chance it can also remove other enchantments.":" change! change, change.",
+	" Punch a mob with this orb to convert it into an enchanted one. Keep in mind that ":" change. change ",
+	" not all entities can be converted.":" change.",
+
+	"A librarian can convert into an ":"change ",
+	" by placing a charged bookshelf below their lectern workstation.":" change.",
+	" This will only work with a new librarian villager!":" change!",
+	"This villager will always sell ":"change ",
+	" as the first trade, which is the main currecy to buy items from the other trades.":" change, change.",
+	"You can level up this villager 3 times + an extra one if you get lucky.":"change.",
+	"Level:":"change:",
+	"Level 1: ":"change: ",
+	"Level 2: ":"change: ",
+	"Level 3: ":"change: ",
+	"Level 4: ":"change: ",
+	" 2 Low custom enchantments":" change",
+	" 2 Average custom enchantments":" change",
+	" 2 Strong custom enchantments or 1 Strong custom enchantment and 1 Custom curse":" change",
+	" can roll between different special items":" change",
+	"An Advanced enchanter can only sell 6 enchantments per restock, ":"change, ",
+	"are not allowed to offer discounts":"change",
+	" and can only sell a custom enchantment at ":" change ",
+	" level 1 ONLY":" change",
+	"They can only sell special items for a limited quatity, so be careful on what you decide to use them for.":"change, change.",
+	"Instead of selling enchanted books they sell ":"change ",
+	" which behave similar as custom enchanted books but they can be stacked. You can convert them into a normal enchanted book by throwing one on top of a ":" change. change ",
+	"Tier 4 Enchanting setup":"change",
+
+
+	"Comment_15":"Update 7.3.1",
+	"Charged Bookshelf crafting:": "change:",
+	"Allow all players to get Charged Bookshelves.":"change.",
+	"Technical Anvil crafting:": "change:",
+	"Allow all players to get the Technical Anvil.":"change."
+}
